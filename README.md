@@ -101,7 +101,7 @@ ORDER BY year;
 
 Dengan syntax di atas maka akan menghasilkan tabel 'total_revenue' sebagai berikut
 
-![Table total revenue](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/b8a93733-ea17-4662-84b0-a8c0a7432596)
+![Total Revenue per Year](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/assets/Total%20Revenue%20per%20Year.png)
 
 
 
