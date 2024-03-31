@@ -1,6 +1,6 @@
 **Big Data Analytics Kimia Farma x Rakamin Academy (Batch February 2024)**
 ---
-SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/dambarizki28/final-task-kimia-farma-bda/blob/main/query-final-task.sql.txt)
+SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/Query%20Tabel%20Analisa.sql)
 
 Visualization Tool: Google Looker Studio - [Lihat Dashboard](https://lookerstudio.google.com/reporting/9cb4a9bc-55f8-4d86-8017-e49f75694159)
 
