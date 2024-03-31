@@ -110,4 +110,4 @@ Visualisasi Data
 
 [Lihat visualisasi data disini](https://lookerstudio.google.com/reporting/9cb4a9bc-55f8-4d86-8017-e49f75694159)
 
-![Damba_RF_-_Final_Task_Kimia_Farma_Performance_Analytics-1](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/cc17accd-fa4e-4b36-a9e9-f3692d181125)
+![Dashboard](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/assets/Dashboard.png)
