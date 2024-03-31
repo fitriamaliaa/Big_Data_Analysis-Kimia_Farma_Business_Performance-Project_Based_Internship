@@ -1,4 +1,4 @@
-**Big Data Analytics Kimia Farma x Rakamin Academy Batch February 2024**
+**Big Data Analytics Kimia Farma x Rakamin Academy (Batch February 2024)**
 ---
 SQL Tool: Google BigQuery - [Lihat Script SQL](https://github.com/dambarizki28/final-task-kimia-farma-bda/blob/main/query-final-task.sql.txt)
 
