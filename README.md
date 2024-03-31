@@ -87,11 +87,8 @@ FROM (
 
 ![Tabel Analisa 1](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/assets/Tabel%20Analisa%201.png)
 
-![Screenshot 2024-03-01 112937](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/86f5607e-165a-4f6e-aadf-acec54ef904b)
+![Tabel Analisa 2](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/assets/Tabel%20Analisa%202.png)
 
-![Screenshot 2024-03-01 113003](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/789c516f-9c71-4c1b-b08f-74ca826d1907)
-
-![Screenshot 2024-03-01 113037](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/f2e9c40b-f259-4083-9efd-6a7164ecb60a)
 
 Pada challenge berikutnya, terdapat perintah untuk membuat visualisasi perbandingan pendapatan Kimia Farma dari tahun ke tahun di dashboard visualization. Berikut query untuk tabel 'total_revenue' :
 ```sql
