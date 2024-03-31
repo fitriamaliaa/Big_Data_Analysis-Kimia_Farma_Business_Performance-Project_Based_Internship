@@ -85,7 +85,7 @@ FROM (
 
 **Hasil Tabel Analisa**
 
-![Screenshot 2024-03-01 112045](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/65ca036d-b27a-4375-924f-57c36336cf14)
+![Tabel Analisa 1](https://github.com/fitriamaliaa/Big_Data_Analysis-Kimia_Farma_Business_Performance-Project_Based_Internship/blob/main/assets/Tabel%20Analisa%201.png)
 
 ![Screenshot 2024-03-01 112937](https://github.com/dambarizki28/final-task-kimia-farma-bda/assets/161567903/86f5607e-165a-4f6e-aadf-acec54ef904b)
 
